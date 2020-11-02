@@ -4,7 +4,7 @@
 
 :mailbox: How to reach me: :arrow_heading_down:
 
-<a href="https://github.com/julianaizac"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
+<a href="https://github.com/lucianobwille"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/luciano-wille-080053186"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 
 <p align="center">  
