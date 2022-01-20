@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, Nodejs, CSS, React Native**
 
-- 👨‍💻 All of my relevant projects are available at [https://lucianobwille.github.io/](Portifólio)
+- 👨‍💻 All of my relevant projects are available at [Portifólio](https://lucianobwille.github.io/)
 
-- 📝 I regularly write articles on [https://lucianobwille.blogspot.com](Blogger LucianoBWille)
+- 📝 I regularly write articles on [Blogger LucianoBWille](https://lucianobwille.blogspot.com)
 
 - 📫 How to reach me <a href="https://github.com/lucianobwille"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a> <a href="https://www.linkedin.com/in/luciano-wille-080053186"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 
