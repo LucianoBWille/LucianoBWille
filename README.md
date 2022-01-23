@@ -1,7 +1,7 @@
 # Hi 👋, I'm Luciano Berwanger Wille
+<!---
 A passionate full stack JavaScript web developer from Brasil
 
-<!---
 - 🔭 I’m currently working on [NWL_6_Discover](https://github.com/LucianoBWille/NWL_6_Discover)
 -->
 
@@ -13,19 +13,28 @@ A passionate full stack JavaScript web developer from Brasil
 
 - 📫 How to reach me **00lucianobwille00@gmail.com**
 
-- Connect with me: <a href="https://linkedin.com/in/lucianobwille" target="blank">
+- 🔗 Connect with me: <a href="https://linkedin.com/in/lucianobwille" target="blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=blue" alt="lucianobwille" />
 </a><a href="https://www.youtube.com/c/luciano b. wille" target="blank">
   <img align="center" src="https://img.shields.io/badge/-YouTube-000?&logo=YouTube&color=red" alt="luciano b. wille" />
 </a>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [In construction...](https://lucianobwille.blogspot.com)
+<!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  I need make this...
+</details>
+
 <details>
   <summary>
-    Languages and Tools:
+    <b>🛠️ Languages and Tools:</b>
   </summary>
   
-#### Languages
-
+   Languages:   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -37,7 +46,7 @@ A passionate full stack JavaScript web developer from Brasil
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 -->
 
-#### Technologies
+ Tools:  
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -60,6 +69,7 @@ A passionate full stack JavaScript web developer from Brasil
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 -->
   </details>
+  
 
 ![lucianobwille](https://komarev.com/ghpvc/?username=lucianobwille&label=Profile%20views&color=0e75b6&style=flat)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianobwille&theme=dracula" alt="lucianobwille" /></p>
