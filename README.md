@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **Nodejs**, **React**, **React Native**, **Git**, **Bash** and **Markdown**.
   
-- 👨‍💻 All of my relevant projects are available at [my portfolio](https://lucianobwille.github.io/).
+<!-- - 👨‍💻 All my relevant projects are available in [my portfolio](https://lucianobwille.github.io/). -->
 
-- 📝 I regularly write articles on [my blog](https://lucianobwille.blogspot.com).
+<!-- - 📝 I regularly write articles on [my blog](https://lucianobwille.blogspot.com). -->
 
 - 📫 How to reach me **00lucianobwille00@gmail.com**
 
@@ -55,12 +55,12 @@
  <!-- Tools:   -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
@@ -88,5 +88,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
   </details>
   
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianobwille&theme=dracula" alt="lucianobwille" /></p>
+
+<p align="center"><img align="center" src="https://img.shields.io/badge/-Updates coming soon-000&color=green">
