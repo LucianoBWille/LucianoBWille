@@ -33,7 +33,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- - [In construction...](https://lucianobwille.blogspot.com)
 - [In construction...](https://lucianobwille.blogspot.com)
-- [In construction...](https://lucianobwille.blogspot.com)
 - [In construction...](https://lucianobwille.blogspot.com) -->
 <!-- BLOG-POST-LIST:END -->
 
