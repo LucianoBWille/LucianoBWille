@@ -86,7 +86,9 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
   </details>
-  
+
+<h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianobwille&show_icons=true&locale=en&theme=dracula" alt="lucianobwille" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianobwille&theme=dracula" alt="lucianobwille" /></p>
 
 <p align="center"><img align="center" src="https://img.shields.io/badge/-Updates coming soon-000&color=green">
