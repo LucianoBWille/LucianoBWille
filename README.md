@@ -88,7 +88,9 @@
   </details>
 
 <h3 align="left"> 📊 Github metrics: </h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianobwille&show_icons=true&locale=en&theme=dark" alt="lucianobwille" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianobwille&theme=dark&locale=br" alt="lucianobwille" /></p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobwille&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucianobwille&show_icons=true&locale=en&theme=dark" alt="lucianobwille" />
+</p>
 
 <p align="center"><img align="center" src="https://img.shields.io/badge/-Updates coming soon-000&color=green">
