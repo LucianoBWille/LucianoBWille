@@ -1,5 +1,5 @@
 <p>
-  <img height='200em' align='right' src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'/>
+  <img height='190em' align='right' src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'/>
  
   <h1>Hi 👋, I'm Luciano Berwanger Wille</h1>
   <h3>I'm a full stack web developer from Brazil and this is where I develop, maintain and break programs :sweat_smile:</h3>
@@ -15,9 +15,9 @@
   <a href="https://linkedin.com/in/lucianobwille" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=blue" alt="lucianobwille" />
   </a>
-  <a href="https://www.youtube.com/channel/UC4ctpxxN3Waa4g6gMhiD6Ag" target="blank">
+  <!-- <a href="https://www.youtube.com/channel/UC4ctpxxN3Waa4g6gMhiD6Ag" target="blank">
     <img src="https://img.shields.io/badge/-YouTube-000?&logo=YouTube&color=red" alt="luciano b. wille" />
-  </a>
+  </a> -->
   <img src="https://komarev.com/ghpvc/?username=lucianobwille&label=Github%20profile%20views&color=0e75b6&style=flat" alt="lucianobwille" />
 </p>
 
