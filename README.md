@@ -1,5 +1,9 @@
-# Hi 👋, I'm Luciano Berwanger Wille
-### I'm a full stack web developer from Brazil and this is where I develop, maintain and break programs :sweat_smile:
+<p>
+  <img height='200em' align='right' src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'/>
+ 
+  <h1>Hi 👋, I'm Luciano Berwanger Wille</h1>
+  <h3>I'm a full stack web developer from Brazil and this is where I develop, maintain and break programs :sweat_smile:</h3>
+</p>
 
 <p align="center">
   <!-- <a href="https://lucianobwille.github.io/" target="blank">
