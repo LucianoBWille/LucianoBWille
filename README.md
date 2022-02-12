@@ -92,9 +92,11 @@
   </details>
 
 <h3 align="left"> 📊 Github metrics: </h3>
-<p align='center'>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobwille&layout=compact&langs_count=7&theme=dark"/>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=lucianobwille&show_icons=true&locale=en&theme=dark" alt="lucianobwille" />
+<p align='center'> 
+  <a href='https://github.com/LucianoBWille'>
+    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobwille&layout=compact&langs_count=7&theme=dark"/>
+    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=lucianobwille&show_icons=true&locale=en&theme=dark" alt="lucianobwille" />
+  </a>
 </p>
 
 <p align="center"><img align="center" src="https://img.shields.io/badge/-Updates coming soon-000&color=green">
