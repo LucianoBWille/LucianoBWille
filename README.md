@@ -40,10 +40,10 @@
 - [In construction...](https://lucianobwille.blogspot.com) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <details>
+<details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  I need make this...
-</details> -->
+  I'm a Full Stack developer, so I develop both front-end and back-end. I've worked in a company as an intern, where I worked with Javascript, Nodejs, Mongodb, React and HTML/CSS. Putting together the internship and my own experiences, I have three years of experience with web development. I like to keep up to date and study new technologies. I'm currently studying Nodejs, React, HTML/CSS and Javascript more in depth.
+</details>
 
 <!-- <details> -->
   <summary>
