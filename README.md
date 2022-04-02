@@ -45,7 +45,7 @@
   I'm a Full Stack developer, so I develop both front-end and back-end. I've worked in a company as an intern, where I worked with Javascript, Nodejs, Mongodb, React and HTML/CSS. Putting together the internship and my own experiences, I have three years of experience with web development. I like to keep up to date and study new technologies. I'm currently studying Nodejs, React, HTML/CSS and Javascript more in depth.
 </details>
 
-<!-- <details> -->
+<details open>
   <summary>
     <b>🛠️ Languages and Tools:</b>
   </summary>
@@ -64,9 +64,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/Git-000?&logo=git)
@@ -74,6 +71,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
