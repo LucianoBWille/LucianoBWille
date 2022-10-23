@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **Nodejs**, **React**, **React Native**, **Git**, **Bash** and **Markdown**.
   
-<!-- - 👨‍💻 All my relevant projects are available in [my portfolio](https://lucianobwille.github.io/). -->
+- 👨‍💻 All my relevant projects are available in [my portfolio](https://lucianobwille.github.io/).
 
 <!-- - 📝 I regularly write articles on [my blog](https://lucianobwille.blogspot.com). -->
 
