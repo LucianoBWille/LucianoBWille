@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always excited about b
 
 ## 🚀 Currently working on:
 - [Git Contribution Bot](https://github.com/LucianoBWille/gitContributionBot) - Generate custom GitHub contribution heatmaps with text, pixel art, and noise patterns. Fully customizable and automated!
-- [IBOVESPA forecast with multivariate LSTM (coming soon)](https://github.com/LucianoBWille/IBOVESPA-forecast-with-multivariate-LSTM.git) - Repository for forecasting IBOVESPA using multivariate data and LSTM in Python, containing code, data, and results.
+- [IBOVESPA forecast with multivariate LSTM](https://github.com/LucianoBWille/IBOVESPA-forecast-with-multivariate-LSTM.git) - Repository for forecasting IBOVESPA using multivariate data and LSTM in Python, containing code, data, and results.
 - [Task Manager (coming soon)]() - A web-based task manager inspired by TaskWarrior, offering task creation, prioritization, deadlines, and easy organization.
 
 <!--
